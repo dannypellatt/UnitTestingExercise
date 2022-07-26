@@ -1,9 +1,11 @@
 ﻿using System;
+using UnitTestingExercise;
 namespace UnitTestingExercise
 {
     public class Calculator
     {
-        // Step 1: Add a reference to your UnitTestingExercise project:
+        // DONE? Step 1: Add a reference to your UnitTestingExercise project:
+        
 
         // Right-click on the 'Dependencies' folder in your UnitTestingExercise.Tests project
         // and add your reference to the UnitTestingExercise project
